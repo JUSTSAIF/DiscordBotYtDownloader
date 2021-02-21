@@ -13,5 +13,5 @@ Programmed By : Python
 
 #### *Formats : MP3 , MP4
 
-![program pic](https://github.com/JUSTSAIF/DiscordBotYtDownloader/blob/main/pic.png?raw=true)
+![program pic](https://github.com/JUSTSAIF/DiscordBotYtDownloader/blob/master/pic.png?raw=true)
 
