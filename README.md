@@ -9,5 +9,9 @@ Programmed By : Python
 ## Used libraries :
 #### *random ,requests ,string ,discord ,time ,discord ,selenium
 
+
+
+#### *Formats : MP3 , MP4
+
 ![program pic](https://github.com/JUSTSAIF/DiscordBotYtDownloader/blob/main/pic.png?raw=true)
 
