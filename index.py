@@ -1,4 +1,4 @@
-import random,requests,string,discord,asyncio,time,datetime
+import random,requests,string,discord,time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from discord.ext.commands import Bot
@@ -49,4 +49,4 @@ class Mr28Bot(discord.Client):
         else:
             pass
 client = Mr28Bot()
-client.run('NzQyMzY3NzgxMzk1MTAzNzQ2.XzFF3w.dQzxswGG7X6lt-nkXNWBI0rhSFI')
+client.run('NzQyMzY3NzgxMzk1MTAzNzQ2.XzFF3w.FhkFE7c-m-z6-7mkeBXnU34pPcg')
