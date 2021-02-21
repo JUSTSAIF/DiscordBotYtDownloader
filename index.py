@@ -49,8 +49,5 @@ class Mr28Bot(discord.Client):
         else:
             pass
 client = Mr28Bot()
-<<<<<<< HEAD
-client.run('NzQyMzY3NzgxMzk1MTAzNzQ2.XzFF3w.FhkFE7c-m-z6-7mkeBXnU34pPcg')
-=======
 client.run('xxxxxxxx Your Discord Bot Token Here xxxxxxxx ')
->>>>>>> af3bcef9169cb4dfddcff0a9f1b9ed24fa72231e
+
